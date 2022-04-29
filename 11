@@ -1,0 +1,9 @@
+{
+    "borower": "Amina",
+    "lender": "James",
+    "amount": 80000,
+    "prev_block": {
+        "hash": "97f0865df1534dc51e9874b70a4ad805",
+        "filename": "10"
+    }
+}

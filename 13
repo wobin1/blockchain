@@ -1,0 +1,9 @@
+{
+    "borower": "peter",
+    "lender": "vincent",
+    "amount": 100000,
+    "prev_block": {
+        "hash": "670bf462130545a24328b2e42842c732",
+        "filename": "12"
+    }
+}
